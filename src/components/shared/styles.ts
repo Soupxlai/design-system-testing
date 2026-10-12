@@ -66,7 +66,7 @@ export const spacing = {
 export const typography = {
   type: {
     primary:
-      'var(--nunito-sans, "Nunito Sans"), "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif',
+      'var(--manrope, "Manrope"), "Manrope", "Helvetica Neue", Helvetica, Arial, sans-serif',
     code: '"SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace',
   },
   weight: {
